@@ -1,0 +1,41 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+
+}
+#button {
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+
+}
+button {
+    width: 150px;
+    height: auto;
+}
+label {
+    padding:15px;
+    font-family: 'Pacifico', cursive;
+}
+input {
+    height: 24px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+p {
+    margin-top: 35vh;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+}
+
+body {
+    background-color: #abc6ce ;
+}
